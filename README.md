@@ -1,75 +1,37 @@
 <!--
   Profile README for Kavita Vemulapati
-  Theme: navy #0a1628 / electric cyan #22d3ee / white text
-  Assets used (already in your repo, not modified): assets/banner.svg, assets/divider.svg
-  TODO before publishing: replace the two placeholders in "Connect With Me"
-  (YOUR-LINKEDIN-ID and YOUR-EMAIL@example.com)
+  New file needed: assets/banner-gradient.svg (existing assets/banner.svg and divider.svg are untouched)
+  TODO: replace YOUR-LINKEDIN-ID and YOUR-EMAIL@example.com in "Connect With Me"
 -->
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Kavita Vemulapati - Aspiring Software Developer | AI & ML Enthusiast" width="100%">
+<img src="./assets/banner-gradient.svg" alt="Kavita Vemulapati - Aspiring Software Developer | AI & ML Enthusiast" width="100%">
 
-<br>
-
-<h1>Kavita Vemulapati</h1>
-
-<h3>Aspiring Software Developer &nbsp;|&nbsp; AI &amp; ML Enthusiast</h3>
+<p>🚀 Building projects in Python, Java and Node.js, with hands-on YOLOv5 experience from DRDO</p>
 
 <p>
-  Third-year B.Tech student in Computer Science and Engineering (AI &amp; ML).<br>
-  I build Python, Java and Node.js projects, and I have worked on a YOLOv5 image detection pipeline at DRDO.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/3rd_Year-B.Tech_CSE_(AI_%26_ML)-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="3rd Year B.Tech CSE (AI and ML)">
-  <img src="https://img.shields.io/badge/Intern-DRDO_RCI-0a1628?style=for-the-badge&labelColor=0a1628&color=60a5fa" alt="Intern at DRDO RCI">
-  <img src="https://img.shields.io/badge/Open_to-Placements-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="Open to placements">
-</p>
-
-<p>
-  <a href="#about-me">About</a> &nbsp;•&nbsp;
-  <a href="#technical-skills">Skills</a> &nbsp;•&nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp;•&nbsp;
-  <a href="#experience">Experience</a> &nbsp;•&nbsp;
-  <a href="#github-statistics">Stats</a> &nbsp;•&nbsp;
-  <a href="#connect-with-me">Contact</a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/vemulapatikavita-dotcom"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 </div>
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
-## About Me
+## 👋 About Me
 
-I'm a third-year B.Tech student in **Computer Science and Engineering (AI & ML)**, preparing for a career as a **software developer**. I like turning ideas into working programs, and I'm building a solid base in Python, Java, data structures and algorithms, and machine learning.
-
-<table>
-  <tr>
-    <td width="28%"><b>Education</b></td>
-    <td>B.Tech, Computer Science and Engineering (Artificial Intelligence &amp; Machine Learning), 3rd year</td>
-  </tr>
-  <tr>
-    <td><b>Career goal</b></td>
-    <td>Software Developer / Software Engineer</td>
-  </tr>
-  <tr>
-    <td><b>Internship</b></td>
-    <td>DRDO, Research Centre Imarat (RCI): YOLOv5-based image detection pipeline in embedded systems</td>
-  </tr>
-  <tr>
-    <td><b>What I build</b></td>
-    <td>Python automation and algorithm projects, Java console applications, and a Node.js + MongoDB REST API</td>
-  </tr>
-  <tr>
-    <td><b>Learning now</b></td>
-    <td>Python DSA, SQL, software development practices, and AI/ML applications</td>
-  </tr>
-</table>
+- 🎓 Third-year B.Tech student in **Computer Science and Engineering (AI & ML)**, aiming for a **Software Developer** role
+- 🛰️ Interned at **DRDO, Research Centre Imarat (RCI)**, working on a **YOLOv5-based image detection pipeline in embedded systems**
+- 🛠️ I build with **Python, Java, JavaScript, Node.js, Express and MongoDB**
+- 🧠 Building a strong base in **data structures and algorithms**, machine learning and AI
+- 📚 Currently learning **Python DSA, SQL, software development and AI/ML applications**
+- 💬 Open to entry-level software developer roles and internships
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Hands-on** means I have used it in a project or internship shown on this profile. **Learning** means I'm actively studying it and have not yet shipped a project with it.
 
@@ -152,7 +114,7 @@ I'm a third-year B.Tech student in **Computer Science and Engineering (AI & ML)*
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
-## Featured Projects
+## 🚀 Featured Projects
 
 Every project below links to a public repository on this account.
 
@@ -232,7 +194,7 @@ Every project below links to a public repository on this account.
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
-## Experience
+## 💼 Experience
 
 ### Intern, DRDO - Research Centre Imarat (RCI)
 
@@ -251,7 +213,7 @@ These are learning programs and project-based internships, listed separately fro
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -266,7 +228,7 @@ These are learning programs and project-based internships, listed separately fro
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
-## Currently Learning
+## 📚 Currently Learning
 
 <p>
   <img src="https://img.shields.io/badge/Python_%26_DSA-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="Python and DSA">
@@ -277,7 +239,7 @@ These are learning programs and project-based internships, listed separately fro
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
-## Achievements and Certifications
+## 🏆 Achievements and Certifications
 
 - Completed an internship at **DRDO - Research Centre Imarat**, working on YOLOv5-based image detection.
 - Completed project work for the **CodeSoft** (Java) and **SkillCraft Technology** (Python) internship programs.
@@ -285,12 +247,12 @@ These are learning programs and project-based internships, listed separately fro
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a1628?style=for-the-badge&labelColor=0a1628&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-0a1628?style=for-the-badge&labelColor=0a1628&color=EA4335&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/vemulapatikavita-dotcom"><img src="https://img.shields.io/badge/GitHub-Follow-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/vemulapatikavita-dotcom"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 Thanks for visiting. I'm open to entry-level software developer roles and internships.
