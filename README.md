@@ -174,9 +174,9 @@ I'm a third-year B.Tech student in **Computer Science and Engineering (AI & ML)*
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&labelColor=161b22&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/vemulapati-kavita-077666366/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&labelColor=161b22&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/vemulapatikavita-dotcom"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&labelColor=161b22&color=8b949e&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&labelColor=161b22&color=EA4335&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:vemulapatikavita@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&labelColor=161b22&color=EA4335&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br><br>
 
