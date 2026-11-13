@@ -1,185 +1,296 @@
+<!--
+  Profile README for Kavita Vemulapati
+  Theme: navy #0a1628 / electric cyan #22d3ee / white text
+  Assets used (already in your repo, not modified): assets/banner.svg, assets/divider.svg
+  TODO before publishing: replace the two placeholders in "Connect With Me"
+  (YOUR-LINKEDIN-ID and YOUR-EMAIL@example.com)
+-->
+
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Kavita Vemulapati - Aspiring Software Developer | AI & ML Enthusiast" width="100%">
 
 <br>
 
-<img src="https://img.shields.io/badge/3rd_Year-B.Tech_CSE_(AI_%26_ML)-0d1117?style=for-the-badge&labelColor=161b22&color=2dd4bf" alt="3rd_Year-B.Tech_CSE_(AI_%26_ML)">
-<img src="https://img.shields.io/badge/Intern-DRDO_RCI-0d1117?style=for-the-badge&labelColor=161b22&color=60a5fa" alt="Intern-DRDO_RCI">
-<img src="https://img.shields.io/badge/Open_to-Placements-0d1117?style=for-the-badge&labelColor=161b22&color=2dd4bf" alt="Open_to-Placements">
+<h1>Kavita Vemulapati</h1>
 
-<br>
+<h3>Aspiring Software Developer &nbsp;|&nbsp; AI &amp; ML Enthusiast</h3>
 
-[About](#about-me) &nbsp;•&nbsp; [Skills](#technical-skills) &nbsp;•&nbsp; [Projects](#featured-projects) &nbsp;•&nbsp; [Experience](#experience) &nbsp;•&nbsp; [Stats](#github-statistics) &nbsp;•&nbsp; [Contact](#connect-with-me)
+<p>
+  Third-year B.Tech student in Computer Science and Engineering (AI &amp; ML).<br>
+  I build Python, Java and Node.js projects, and I have worked on a YOLOv5 image detection pipeline at DRDO.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/3rd_Year-B.Tech_CSE_(AI_%26_ML)-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="3rd Year B.Tech CSE (AI and ML)">
+  <img src="https://img.shields.io/badge/Intern-DRDO_RCI-0a1628?style=for-the-badge&labelColor=0a1628&color=60a5fa" alt="Intern at DRDO RCI">
+  <img src="https://img.shields.io/badge/Open_to-Placements-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="Open to placements">
+</p>
+
+<p>
+  <a href="#about-me">About</a> &nbsp;•&nbsp;
+  <a href="#technical-skills">Skills</a> &nbsp;•&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;•&nbsp;
+  <a href="#experience">Experience</a> &nbsp;•&nbsp;
+  <a href="#github-statistics">Stats</a> &nbsp;•&nbsp;
+  <a href="#connect-with-me">Contact</a>
+</p>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+<img src="./assets/divider.svg" alt="" width="100%">
 
 ## About Me
 
-I'm a third-year B.Tech student in **Computer Science and Engineering (AI & ML)**, preparing for a career as a software developer. I enjoy turning ideas into working programs, and I'm building a strong base in Python, Java, data structures and algorithms, and machine learning.
+I'm a third-year B.Tech student in **Computer Science and Engineering (AI & ML)**, preparing for a career as a **software developer**. I like turning ideas into working programs, and I'm building a solid base in Python, Java, data structures and algorithms, and machine learning.
 
-- **Internship:** Worked on image detection with a **YOLOv5 pipeline in embedded systems** at **DRDO – Research Centre Imarat (RCI)**.
-- **What I build:** Python automation and algorithm projects, Java console applications, and a Node.js + MongoDB REST API.
-- **Interests:** Python development, Artificial Intelligence, Machine Learning, Data Analytics and Software Development.
-- **Goal:** An entry-level Software Developer role at a reputed IT company, where I can keep learning and contribute to real-world products.
+<table>
+  <tr>
+    <td width="28%"><b>Education</b></td>
+    <td>B.Tech, Computer Science and Engineering (Artificial Intelligence &amp; Machine Learning), 3rd year</td>
+  </tr>
+  <tr>
+    <td><b>Career goal</b></td>
+    <td>Software Developer / Software Engineer</td>
+  </tr>
+  <tr>
+    <td><b>Internship</b></td>
+    <td>DRDO, Research Centre Imarat (RCI): YOLOv5-based image detection pipeline in embedded systems</td>
+  </tr>
+  <tr>
+    <td><b>What I build</b></td>
+    <td>Python automation and algorithm projects, Java console applications, and a Node.js + MongoDB REST API</td>
+  </tr>
+  <tr>
+    <td><b>Learning now</b></td>
+    <td>Python DSA, SQL, software development practices, and AI/ML applications</td>
+  </tr>
+</table>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+<img src="./assets/divider.svg" alt="" width="100%">
 
 ## Technical Skills
 
+**Hands-on** means I have used it in a project or internship shown on this profile. **Learning** means I'm actively studying it and have not yet shipped a project with it.
+
 <table>
   <tr>
-    <td width="210"><b>Programming Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java, JavaScript"></td>
+    <th width="22%" align="left">Area</th>
+    <th align="left">Hands-on</th>
+    <th align="left">Learning / coursework</th>
   </tr>
   <tr>
-    <td><b>AI &amp; Machine Learning</b></td>
-    <td><img src="https://img.shields.io/badge/YOLOv5-Object_Detection-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="YOLOv5"> <img src="https://img.shields.io/badge/Computer_Vision-Fundamentals-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="Computer Vision"> <img src="https://img.shields.io/badge/Pandas-Data_Handling-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="Pandas"></td>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=22d3ee" alt="Python">
+      <img src="https://img.shields.io/badge/Java-0a1628?style=flat-square&logo=openjdk&logoColor=22d3ee" alt="Java">
+      <img src="https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=22d3ee" alt="JavaScript">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-0a1628?style=flat-square&logo=mysql&logoColor=60a5fa" alt="SQL">
+    </td>
   </tr>
   <tr>
-    <td><b>Web Technologies</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express"> <img src="https://img.shields.io/badge/REST_APIs-CRUD-0d1117?style=flat-square&labelColor=161b22&color=60a5fa" alt="REST APIs"></td>
+    <td><b>AI and Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/YOLOv5-0a1628?style=flat-square&logoColor=22d3ee" alt="YOLOv5">
+      <img src="https://img.shields.io/badge/Pandas-0a1628?style=flat-square&logo=pandas&logoColor=22d3ee" alt="Pandas">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Machine_Learning-0a1628?style=flat-square&logoColor=60a5fa" alt="Machine Learning">
+      <img src="https://img.shields.io/badge/Artificial_Intelligence-0a1628?style=flat-square&logoColor=60a5fa" alt="Artificial Intelligence">
+      <img src="https://img.shields.io/badge/Computer_Vision-0a1628?style=flat-square&logoColor=60a5fa" alt="Computer Vision">
+    </td>
   </tr>
   <tr>
-    <td><b>Database Management</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"> <img src="https://img.shields.io/badge/Mongoose-ODM-0d1117?style=flat-square&labelColor=161b22&color=60a5fa" alt="Mongoose"> <img src="https://img.shields.io/badge/SQL-Learning-0d1117?style=flat-square&labelColor=161b22&color=8b949e" alt="SQL (learning)"></td>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-0a1628?style=flat-square&logo=nodedotjs&logoColor=22d3ee" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express.js-0a1628?style=flat-square&logo=express&logoColor=22d3ee" alt="Express.js">
+      <img src="https://img.shields.io/badge/REST_APIs-0a1628?style=flat-square&logoColor=22d3ee" alt="REST APIs">
+      <img src="https://img.shields.io/badge/Spring_Boot-0a1628?style=flat-square&logo=springboot&logoColor=22d3ee" alt="Spring Boot">
+    </td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td><b>Developer Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,maven&theme=dark" alt="Git, GitHub, Maven"> <img src="https://img.shields.io/badge/Spring_Boot-Java_17-0d1117?style=flat-square&labelColor=161b22&color=60a5fa" alt="Spring Boot"></td>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-0a1628?style=flat-square&logo=mongodb&logoColor=22d3ee" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Mongoose-0a1628?style=flat-square&logoColor=22d3ee" alt="Mongoose">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-0a1628?style=flat-square&logo=mysql&logoColor=60a5fa" alt="SQL">
+    </td>
   </tr>
   <tr>
-    <td><b>DevOps Technologies</b></td>
-    <td><img src="https://img.shields.io/badge/Version_Control-Git_%26_GitHub-0d1117?style=flat-square&labelColor=161b22&color=60a5fa" alt="Git and GitHub"></td>
+    <td><b>Computer Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Recursion_and_Backtracking-0a1628?style=flat-square&logoColor=22d3ee" alt="Recursion and Backtracking">
+      <img src="https://img.shields.io/badge/OOP-0a1628?style=flat-square&logoColor=22d3ee" alt="OOP">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-0a1628?style=flat-square&logoColor=60a5fa" alt="Data Structures and Algorithms">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Developer tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0a1628?style=flat-square&logo=git&logoColor=22d3ee" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-0a1628?style=flat-square&logo=github&logoColor=22d3ee" alt="GitHub">
+      <img src="https://img.shields.io/badge/Maven-0a1628?style=flat-square&logo=apachemaven&logoColor=22d3ee" alt="Maven">
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><b>DevOps fundamentals</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Version_Control-Git_%26_GitHub-0a1628?style=flat-square&logoColor=22d3ee" alt="Version control with Git and GitHub">
+    </td>
+    <td>&nbsp;</td>
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+<img src="./assets/divider.svg" alt="" width="100%">
 
 ## Featured Projects
 
+Every project below links to a public repository on this account.
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[Ecommerce Product Web Scraper](https://github.com/vemulapatikavita-dotcom/Ecommerce-Product-Web-Scraper)**<br>
-<sub>Python app that extracts product names, prices and ratings from an e-commerce site and saves them to a CSV file.</sub><br><br>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&labelColor=161b22&color=3776AB&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/BeautifulSoup-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="BeautifulSoup"> <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&labelColor=161b22&color=150458&logo=pandas&logoColor=white" alt="Pandas">
-
-</td>
-<td width="50%" valign="top">
-
-**[Sudoku Solver](https://github.com/vemulapatikavita-dotcom/Sudoku-Solver)**<br>
-<sub>Solves 9×9 Sudoku puzzles automatically using a recursive backtracking algorithm.</sub><br><br>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&labelColor=161b22&color=3776AB&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Backtracking-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="Backtracking"> <img src="https://img.shields.io/badge/Recursion-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="Recursion">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Student Management REST API](https://github.com/vemulapatikavita-dotcom/sc-b6)**<br>
-<sub>Node.js, Express and MongoDB API with create, read, update and delete operations for student records.</sub><br><br>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&labelColor=161b22&color=339933&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&labelColor=161b22&color=60a5fa&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&labelColor=161b22&color=47A248&logo=mongodb&logoColor=white" alt="MongoDB">
-
-</td>
-<td width="50%" valign="top">
-
-**[Java Application Suite](https://github.com/vemulapatikavita-dotcom/java-projects)**<br>
-<sub>Five console apps: ATM Interface, Student Management System, Currency Converter, Grade Calculator and Number Game.</sub><br><br>
-<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=161b22&color=ED8B00&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="OOP"> <img src="https://img.shields.io/badge/File_I%2FO-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="File I/O">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[JPMorgan Chase Forage Project](https://github.com/vemulapatikavita-dotcom/forage-midas)**<br>
-<sub>Java 17 Spring Boot and Maven project from the JPMorgan Chase Advanced Software Engineering virtual experience.</sub><br><br>
-<img src="https://img.shields.io/badge/Java_17-0d1117?style=flat-square&labelColor=161b22&color=ED8B00&logo=openjdk&logoColor=white" alt="Java 17"> <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=161b22&color=6DB33F&logo=springboot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/Maven-0d1117?style=flat-square&labelColor=161b22&color=C71A36&logo=apachemaven&logoColor=white" alt="Maven">
-
-</td>
-<td width="50%" valign="top">
-
-**Python Practice Projects**<br>
-<sub>Fundamentals: [Number Guessing Game](https://github.com/vemulapatikavita-dotcom/Number-Guessing-Game) and [Temperature Converter](https://github.com/vemulapatikavita-dotcom/Temperature-Converter).</sub><br><br>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&labelColor=161b22&color=3776AB&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Functions-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="Functions"> <img src="https://img.shields.io/badge/Problem_Solving-0d1117?style=flat-square&labelColor=161b22&color=2dd4bf" alt="Problem Solving">
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vemulapatikavita-dotcom/sc-b6">Student Management REST API</a></h3>
+      <p>A backend API for managing student records, built with Node.js, Express and MongoDB.</p>
+      <b>Key features</b>
+      <ul>
+        <li>Create, read, update and delete (CRUD) operations for student records</li>
+        <li>RESTful routes built with Express</li>
+        <li>MongoDB for persistent storage</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Node.js-0a1628?style=flat-square&logo=nodedotjs&logoColor=22d3ee" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-0a1628?style=flat-square&logo=express&logoColor=22d3ee" alt="Express">
+      <img src="https://img.shields.io/badge/MongoDB-0a1628?style=flat-square&logo=mongodb&logoColor=22d3ee" alt="MongoDB">
+      <br><br>
+      <a href="https://github.com/vemulapatikavita-dotcom/sc-b6"><b>View repository &rarr;</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vemulapatikavita-dotcom/Ecommerce-Product-Web-Scraper">Ecommerce Product Web Scraper</a></h3>
+      <p>A Python application that extracts product information from an e-commerce website and saves it to a CSV file.</p>
+      <b>Key features</b>
+      <ul>
+        <li>Extracts product names, prices and ratings</li>
+        <li>Saves the results to <code>products.csv</code></li>
+        <li>Includes <code>requirements.txt</code> and run instructions</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=22d3ee" alt="Python">
+      <img src="https://img.shields.io/badge/Requests-0a1628?style=flat-square&logoColor=22d3ee" alt="Requests">
+      <img src="https://img.shields.io/badge/BeautifulSoup-0a1628?style=flat-square&logoColor=22d3ee" alt="BeautifulSoup">
+      <img src="https://img.shields.io/badge/Pandas-0a1628?style=flat-square&logo=pandas&logoColor=22d3ee" alt="Pandas">
+      <br><br>
+      <a href="https://github.com/vemulapatikavita-dotcom/Ecommerce-Product-Web-Scraper"><b>View repository &rarr;</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vemulapatikavita-dotcom/Sudoku-Solver">Sudoku Solver</a></h3>
+      <p>Solves 9x9 Sudoku puzzles automatically using a recursive backtracking algorithm.</p>
+      <b>Key features</b>
+      <ul>
+        <li>Recursive backtracking search</li>
+        <li>Fills a complete 9x9 grid from a partial puzzle</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=22d3ee" alt="Python">
+      <img src="https://img.shields.io/badge/Backtracking-0a1628?style=flat-square&logoColor=22d3ee" alt="Backtracking">
+      <img src="https://img.shields.io/badge/Recursion-0a1628?style=flat-square&logoColor=22d3ee" alt="Recursion">
+      <br><br>
+      <a href="https://github.com/vemulapatikavita-dotcom/Sudoku-Solver"><b>View repository &rarr;</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vemulapatikavita-dotcom/forage-midas">JPMorgan Chase: Advanced Software Engineering</a></h3>
+      <p>A Java 17 Spring Boot and Maven project completed in the JPMorgan Chase virtual experience on Forage. This is a virtual experience, not employment.</p>
+      <b>Key features</b>
+      <ul>
+        <li>Spring Boot application managed with Maven</li>
+        <li>Industry-style software engineering tasks</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Java_17-0a1628?style=flat-square&logo=openjdk&logoColor=22d3ee" alt="Java 17">
+      <img src="https://img.shields.io/badge/Spring_Boot-0a1628?style=flat-square&logo=springboot&logoColor=22d3ee" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/Maven-0a1628?style=flat-square&logo=apachemaven&logoColor=22d3ee" alt="Maven">
+      <br><br>
+      <a href="https://github.com/vemulapatikavita-dotcom/forage-midas"><b>View repository &rarr;</b></a>
+    </td>
+  </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+### More work
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**Java Application Suite**](https://github.com/vemulapatikavita-dotcom/java-projects) | Five console apps: ATM Interface, Student Management System, Currency Converter, Grade Calculator and Number Game | Java, OOP, File I/O |
+| [**Number Guessing Game**](https://github.com/vemulapatikavita-dotcom/Number-Guessing-Game) | Python fundamentals practice project | Python |
+| [**Temperature Converter**](https://github.com/vemulapatikavita-dotcom/Temperature-Converter) | Python fundamentals practice project | Python |
+
+<img src="./assets/divider.svg" alt="" width="100%">
 
 ## Experience
 
-#### Intern, DRDO – Research Centre Imarat (RCI)
+### Intern, DRDO - Research Centre Imarat (RCI)
+
 - Worked on an **image detection pipeline using YOLOv5** in an **embedded systems** context.
 - Project code is not published in my public repositories.
 
-#### Virtual Internships and Programs
+### Virtual Internships and Industry Programs
 
-| Program | Work |
-|---|---|
-| **CodeSoft** | Java task series: ATM Interface, Student Management System, Currency Converter, Grade Calculator, Number Game → [`java-projects`](https://github.com/vemulapatikavita-dotcom/java-projects) |
-| **SkillCraft Technology** | Python projects: Web Scraper, Sudoku Solver, Number Guessing Game, Temperature Converter → [`Ecommerce-Product-Web-Scraper`](https://github.com/vemulapatikavita-dotcom/Ecommerce-Product-Web-Scraper), [`Sudoku-Solver`](https://github.com/vemulapatikavita-dotcom/Sudoku-Solver) |
-| **JPMorgan Chase (Forage)** | Advanced Software Engineering virtual experience → [`forage-midas`](https://github.com/vemulapatikavita-dotcom/forage-midas) |
+These are learning programs and project-based internships, listed separately from the DRDO internship above.
 
-<img src="./assets/divider.svg" width="100%" alt="">
+| Program | Work | Repository |
+| :-- | :-- | :-- |
+| **CodeSoft** | Java task series: ATM Interface, Student Management System, Currency Converter, Grade Calculator, Number Game | [`java-projects`](https://github.com/vemulapatikavita-dotcom/java-projects) |
+| **SkillCraft Technology** | Python tasks: Web Scraper, Sudoku Solver, Number Guessing Game, Temperature Converter | [`Ecommerce-Product-Web-Scraper`](https://github.com/vemulapatikavita-dotcom/Ecommerce-Product-Web-Scraper), [`Sudoku-Solver`](https://github.com/vemulapatikavita-dotcom/Sudoku-Solver) |
+| **JPMorgan Chase (Forage)** | Advanced Software Engineering virtual experience | [`forage-midas`](https://github.com/vemulapatikavita-dotcom/forage-midas) |
+
+<img src="./assets/divider.svg" alt="" width="100%">
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vemulapatikavita-dotcom&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=2dd4bf&text_bold=false&count_private=true" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vemulapatikavita-dotcom&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Most used languages">
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vemulapatikavita-dotcom&show_icons=true&hide_border=true&bg_color=0a1628&title_color=22d3ee&text_color=e6edf3&icon_color=22d3ee&count_private=true">
+<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vemulapatikavita-dotcom&layout=compact&hide_border=true&bg_color=0a1628&title_color=22d3ee&text_color=e6edf3&langs_count=6">
 
-<img src="https://streak-stats.demolab.com?user=vemulapatikavita-dotcom&theme=dark&hide_border=true&background=0d1117&ring=2dd4bf&fire=60a5fa&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak">
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=vemulapatikavita-dotcom&theme=dark&hide_border=true&background=0a1628&ring=22d3ee&fire=22d3ee&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vemulapatikavita-dotcom&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=ffffff&area=true&area_color=2dd4bf&hide_border=true&hide_title=true" alt="Contribution graph">
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vemulapatikavita-dotcom&bg_color=0a1628&color=e6edf3&line=22d3ee&point=ffffff&area=true&area_color=22d3ee&hide_border=true&hide_title=true">
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="">
-
-## Certifications and Achievements
-
-- Completed an internship at **DRDO – Research Centre Imarat**, working on YOLOv5-based image detection.
-- Completed project work for **CodeSoft** (Java) and **SkillCraft Technology** (Python) internship programs.
-- Took part in the **JPMorgan Chase Advanced Software Engineering** virtual experience on Forage.
-
-<!--
-  ADD ONLY CERTIFICATES YOU HOLD. Example format:
-  - **Certificate name** – Issuer, Year ([view credential](LINK))
--->
-
-<img src="./assets/divider.svg" width="100%" alt="">
+<img src="./assets/divider.svg" alt="" width="100%">
 
 ## Currently Learning
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Python_%26_DSA-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="Python and DSA">
+  <img src="https://img.shields.io/badge/SQL-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="SQL">
+  <img src="https://img.shields.io/badge/Software_Development-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="Software Development">
+  <img src="https://img.shields.io/badge/AI_%2F_ML_Applications-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="AI and ML applications">
+</p>
 
-<img src="https://img.shields.io/badge/Python_%26_DSA-0d1117?style=for-the-badge&labelColor=161b22&color=2dd4bf" alt="Python_%26_DSA">
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&labelColor=161b22&color=2dd4bf" alt="SQL">
-<img src="https://img.shields.io/badge/AI_%2F_ML-0d1117?style=for-the-badge&labelColor=161b22&color=2dd4bf" alt="AI_%2F_ML">
-<img src="https://img.shields.io/badge/Software_Development-0d1117?style=for-the-badge&labelColor=161b22&color=2dd4bf" alt="Software_Development">
+<img src="./assets/divider.svg" alt="" width="100%">
 
-</div>
+## Achievements and Certifications
 
-<img src="./assets/divider.svg" width="100%" alt="">
+- Completed an internship at **DRDO - Research Centre Imarat**, working on YOLOv5-based image detection.
+- Completed project work for the **CodeSoft** (Java) and **SkillCraft Technology** (Python) internship programs.
+- Took part in the **JPMorgan Chase Advanced Software Engineering** virtual experience on Forage.
+
+<img src="./assets/divider.svg" alt="" width="100%">
 
 ## Connect With Me
 
-<div align="center">
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a1628?style=for-the-badge&labelColor=0a1628&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-0a1628?style=for-the-badge&labelColor=0a1628&color=EA4335&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/vemulapatikavita-dotcom"><img src="https://img.shields.io/badge/GitHub-Follow-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&labelColor=161b22&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/vemulapatikavita-dotcom"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&labelColor=161b22&color=8b949e&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&labelColor=161b22&color=EA4335&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br><br>
-
-<sub>Thanks for visiting. I'm open to entry-level software developer roles and internships.</sub>
-
-</div>
+Thanks for visiting. I'm open to entry-level software developer roles and internships.
