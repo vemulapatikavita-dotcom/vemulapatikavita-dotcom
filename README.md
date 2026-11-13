@@ -1,258 +1,116 @@
-<!--
-  Profile README for Kavita Vemulapati
-  New file needed: assets/banner-gradient.svg (existing assets/banner.svg and divider.svg are untouched)
-  TODO: replace YOUR-LINKEDIN-ID and YOUR-EMAIL@example.com in "Connect With Me"
--->
+<h1 align="center">⚡ VEMULAPATI KAVITA ⚡</h1>
+<h3 align="center">🧠 AI SYSTEMS • AUTONOMY • MULTI-MODAL INTELLIGENCE</h3>
 
-<div align="center">
-
-<img src="./assets/banner-gradient.svg" alt="Kavita Vemulapati - Aspiring Software Developer | AI & ML Enthusiast" width="100%">
-
-<p>🚀 Building projects in Python, Java and Node.js, with hands-on YOLOv5 experience from DRDO</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/vemulapatikavita-dotcom"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+does+things;RAG+%7C+Multi-Modal+%7C+Autonomous+Systems;Deploy+first.+Stabilize+later." />
 </p>
 
-</div>
+---
 
-<img src="./assets/divider.svg" alt="" width="100%">
+# ⚙️ SKILLS OVERFLOW
 
-## 👋 About Me
+![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF)
+![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=00F7FF)
+![Dart](https://img.shields.io/badge/dart-000000?style=for-the-badge&logo=dart&logoColor=00F7FF)
+![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=00F7FF)
+![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=00F7FF)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=00F7FF)
+![LaTeX](https://img.shields.io/badge/latex-000000?style=for-the-badge&logo=latex&logoColor=00F7FF)
+![Lua](https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=00F7FF)
+![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=00F7FF)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00F7FF)
+![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=00F7FF)
+![Windows Terminal](https://img.shields.io/badge/terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=00F7FF)
 
-- 🎓 Third-year B.Tech student in **Computer Science and Engineering (AI & ML)**, aiming for a **Software Developer** role
-- 🛰️ Interned at **DRDO, Research Centre Imarat (RCI)**, working on a **YOLOv5-based image detection pipeline in embedded systems**
-- 🛠️ I build with **Python, Java, JavaScript, Node.js, Express and MongoDB**
-- 🧠 Building a strong base in **data structures and algorithms**, machine learning and AI
-- 📚 Currently learning **Python DSA, SQL, software development and AI/ML applications**
-- 💬 Open to entry-level software developer roles and internships
+![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon-aws&logoColor=00F7FF)
+![DigitalOcean](https://img.shields.io/badge/digitalocean-000000?style=for-the-badge&logo=digitalocean&logoColor=00F7FF)
+![Firebase](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=00F7FF)
+![Heroku](https://img.shields.io/badge/heroku-000000?style=for-the-badge&logo=heroku&logoColor=00F7FF)
+![Google Cloud](https://img.shields.io/badge/googlecloud-000000?style=for-the-badge&logo=google-cloud&logoColor=00F7FF)
+![Render](https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=00F7FF)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF)
 
-<img src="./assets/divider.svg" alt="" width="100%">
+![PyTorch](https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=00F7FF)
+![TensorFlow](https://img.shields.io/badge/tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=00F7FF)
+![Keras](https://img.shields.io/badge/keras-000000?style=for-the-badge&logo=keras&logoColor=00F7FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00F7FF)
+![OpenCV](https://img.shields.io/badge/opencv-000000?style=for-the-badge&logo=opencv&logoColor=00F7FF)
+![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=00F7FF)
+![Pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=00F7FF)
+![SciPy](https://img.shields.io/badge/scipy-000000?style=for-the-badge&logo=scipy&logoColor=00F7FF)
+![Matplotlib](https://img.shields.io/badge/matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=00F7FF)
+![Plotly](https://img.shields.io/badge/plotly-000000?style=for-the-badge&logo=plotly&logoColor=00F7FF)
+![mlflow](https://img.shields.io/badge/mlflow-000000?style=for-the-badge&logo=mlflow&logoColor=00F7FF)
 
-## 🛠️ Technical Skills
+![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=00F7FF)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=00F7FF)
+![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F7FF)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=00F7FF)
+![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=00F7FF)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=00F7FF)
+![Django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=00F7FF)
 
-**Hands-on** means I have used it in a project or internship shown on this profile. **Learning** means I'm actively studying it and have not yet shipped a project with it.
+![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=00F7FF)
+![Postgres](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=00F7FF)
+![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=00F7FF)
+![SQLite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=00F7FF)
+![Neo4j](https://img.shields.io/badge/neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=00F7FF)
 
-<table>
-  <tr>
-    <th width="22%" align="left">Area</th>
-    <th align="left">Hands-on</th>
-    <th align="left">Learning / coursework</th>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=22d3ee" alt="Python">
-      <img src="https://img.shields.io/badge/Java-0a1628?style=flat-square&logo=openjdk&logoColor=22d3ee" alt="Java">
-      <img src="https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=22d3ee" alt="JavaScript">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-0a1628?style=flat-square&logo=mysql&logoColor=60a5fa" alt="SQL">
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI and Machine Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/YOLOv5-0a1628?style=flat-square&logoColor=22d3ee" alt="YOLOv5">
-      <img src="https://img.shields.io/badge/Pandas-0a1628?style=flat-square&logo=pandas&logoColor=22d3ee" alt="Pandas">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Machine_Learning-0a1628?style=flat-square&logoColor=60a5fa" alt="Machine Learning">
-      <img src="https://img.shields.io/badge/Artificial_Intelligence-0a1628?style=flat-square&logoColor=60a5fa" alt="Artificial Intelligence">
-      <img src="https://img.shields.io/badge/Computer_Vision-0a1628?style=flat-square&logoColor=60a5fa" alt="Computer Vision">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-0a1628?style=flat-square&logo=nodedotjs&logoColor=22d3ee" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express.js-0a1628?style=flat-square&logo=express&logoColor=22d3ee" alt="Express.js">
-      <img src="https://img.shields.io/badge/REST_APIs-0a1628?style=flat-square&logoColor=22d3ee" alt="REST APIs">
-      <img src="https://img.shields.io/badge/Spring_Boot-0a1628?style=flat-square&logo=springboot&logoColor=22d3ee" alt="Spring Boot">
-    </td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-0a1628?style=flat-square&logo=mongodb&logoColor=22d3ee" alt="MongoDB">
-      <img src="https://img.shields.io/badge/Mongoose-0a1628?style=flat-square&logoColor=22d3ee" alt="Mongoose">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-0a1628?style=flat-square&logo=mysql&logoColor=60a5fa" alt="SQL">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Computer Science</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Recursion_and_Backtracking-0a1628?style=flat-square&logoColor=22d3ee" alt="Recursion and Backtracking">
-      <img src="https://img.shields.io/badge/OOP-0a1628?style=flat-square&logoColor=22d3ee" alt="OOP">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-0a1628?style=flat-square&logoColor=60a5fa" alt="Data Structures and Algorithms">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Developer tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-0a1628?style=flat-square&logo=git&logoColor=22d3ee" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-0a1628?style=flat-square&logo=github&logoColor=22d3ee" alt="GitHub">
-      <img src="https://img.shields.io/badge/Maven-0a1628?style=flat-square&logo=apachemaven&logoColor=22d3ee" alt="Maven">
-    </td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><b>DevOps fundamentals</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Version_Control-Git_%26_GitHub-0a1628?style=flat-square&logoColor=22d3ee" alt="Version control with Git and GitHub">
-    </td>
-    <td>&nbsp;</td>
-  </tr>
-</table>
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=00F7FF)
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=00F7FF)
+![Postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=00F7FF)
+![Arduino](https://img.shields.io/badge/arduino-000000?style=for-the-badge&logo=arduino&logoColor=00F7FF)
+![ROS](https://img.shields.io/badge/ros-000000?style=for-the-badge&logo=ros&logoColor=00F7FF)
 
-<img src="./assets/divider.svg" alt="" width="100%">
+---
 
-## 🚀 Featured Projects
+# 📊 SIGNAL
 
-Every project below links to a public repository on this account.
+![](https://github-readme-stats.vercel.app/api?username=THE-DEEPDAS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000)
+![](https://streak-stats.demolab.com?user=THE-DEEPDAS&theme=tokyonight&hide_border=true&background=000000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=THE-DEEPDAS&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vemulapatikavita-dotcom/sc-b6">Student Management REST API</a></h3>
-      <p>A backend API for managing student records, built with Node.js, Express and MongoDB.</p>
-      <b>Key features</b>
-      <ul>
-        <li>Create, read, update and delete (CRUD) operations for student records</li>
-        <li>RESTful routes built with Express</li>
-        <li>MongoDB for persistent storage</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Node.js-0a1628?style=flat-square&logo=nodedotjs&logoColor=22d3ee" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express-0a1628?style=flat-square&logo=express&logoColor=22d3ee" alt="Express">
-      <img src="https://img.shields.io/badge/MongoDB-0a1628?style=flat-square&logo=mongodb&logoColor=22d3ee" alt="MongoDB">
-      <br><br>
-      <a href="https://github.com/vemulapatikavita-dotcom/sc-b6"><b>View repository &rarr;</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vemulapatikavita-dotcom/Ecommerce-Product-Web-Scraper">Ecommerce Product Web Scraper</a></h3>
-      <p>A Python application that extracts product information from an e-commerce website and saves it to a CSV file.</p>
-      <b>Key features</b>
-      <ul>
-        <li>Extracts product names, prices and ratings</li>
-        <li>Saves the results to <code>products.csv</code></li>
-        <li>Includes <code>requirements.txt</code> and run instructions</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=22d3ee" alt="Python">
-      <img src="https://img.shields.io/badge/Requests-0a1628?style=flat-square&logoColor=22d3ee" alt="Requests">
-      <img src="https://img.shields.io/badge/BeautifulSoup-0a1628?style=flat-square&logoColor=22d3ee" alt="BeautifulSoup">
-      <img src="https://img.shields.io/badge/Pandas-0a1628?style=flat-square&logo=pandas&logoColor=22d3ee" alt="Pandas">
-      <br><br>
-      <a href="https://github.com/vemulapatikavita-dotcom/Ecommerce-Product-Web-Scraper"><b>View repository &rarr;</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vemulapatikavita-dotcom/Sudoku-Solver">Sudoku Solver</a></h3>
-      <p>Solves 9x9 Sudoku puzzles automatically using a recursive backtracking algorithm.</p>
-      <b>Key features</b>
-      <ul>
-        <li>Recursive backtracking search</li>
-        <li>Fills a complete 9x9 grid from a partial puzzle</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=22d3ee" alt="Python">
-      <img src="https://img.shields.io/badge/Backtracking-0a1628?style=flat-square&logoColor=22d3ee" alt="Backtracking">
-      <img src="https://img.shields.io/badge/Recursion-0a1628?style=flat-square&logoColor=22d3ee" alt="Recursion">
-      <br><br>
-      <a href="https://github.com/vemulapatikavita-dotcom/Sudoku-Solver"><b>View repository &rarr;</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vemulapatikavita-dotcom/forage-midas">JPMorgan Chase: Advanced Software Engineering</a></h3>
-      <p>A Java 17 Spring Boot and Maven project completed in the JPMorgan Chase virtual experience on Forage. This is a virtual experience, not employment.</p>
-      <b>Key features</b>
-      <ul>
-        <li>Spring Boot application managed with Maven</li>
-        <li>Industry-style software engineering tasks</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Java_17-0a1628?style=flat-square&logo=openjdk&logoColor=22d3ee" alt="Java 17">
-      <img src="https://img.shields.io/badge/Spring_Boot-0a1628?style=flat-square&logo=springboot&logoColor=22d3ee" alt="Spring Boot">
-      <img src="https://img.shields.io/badge/Maven-0a1628?style=flat-square&logo=apachemaven&logoColor=22d3ee" alt="Maven">
-      <br><br>
-      <a href="https://github.com/vemulapatikavita-dotcom/forage-midas"><b>View repository &rarr;</b></a>
-    </td>
-  </tr>
-</table>
+---
 
-### More work
+# 📈 ACTIVITY
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [**Java Application Suite**](https://github.com/vemulapatikavita-dotcom/java-projects) | Five console apps: ATM Interface, Student Management System, Currency Converter, Grade Calculator and Number Game | Java, OOP, File I/O |
-| [**Number Guessing Game**](https://github.com/vemulapatikavita-dotcom/Number-Guessing-Game) | Python fundamentals practice project | Python |
-| [**Temperature Converter**](https://github.com/vemulapatikavita-dotcom/Temperature-Converter) | Python fundamentals practice project | Python |
+![](https://github-readme-activity-graph.vercel.app/graph?username=THE-DEEPDAS&theme=tokyo-night&bg_color=000000&hide_border=true)
 
-<img src="./assets/divider.svg" alt="" width="100%">
+---
 
-## 💼 Experience
+# 🖥️ TERMINAL
 
-### Intern, DRDO - Research Centre Imarat (RCI)
-
-- Worked on an **image detection pipeline using YOLOv5** in an **embedded systems** context.
-- Project code is not published in my public repositories.
-
-### Virtual Internships and Industry Programs
-
-These are learning programs and project-based internships, listed separately from the DRDO internship above.
-
-| Program | Work | Repository |
-| :-- | :-- | :-- |
-| **CodeSoft** | Java task series: ATM Interface, Student Management System, Currency Converter, Grade Calculator, Number Game | [`java-projects`](https://github.com/vemulapatikavita-dotcom/java-projects) |
-| **SkillCraft Technology** | Python tasks: Web Scraper, Sudoku Solver, Number Guessing Game, Temperature Converter | [`Ecommerce-Product-Web-Scraper`](https://github.com/vemulapatikavita-dotcom/Ecommerce-Product-Web-Scraper), [`Sudoku-Solver`](https://github.com/vemulapatikavita-dotcom/Sudoku-Solver) |
-| **JPMorgan Chase (Forage)** | Advanced Software Engineering virtual experience | [`forage-midas`](https://github.com/vemulapatikavita-dotcom/forage-midas) |
-
-<img src="./assets/divider.svg" alt="" width="100%">
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vemulapatikavita-dotcom&show_icons=true&hide_border=true&bg_color=0a1628&title_color=22d3ee&text_color=e6edf3&icon_color=22d3ee&count_private=true">
-<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vemulapatikavita-dotcom&layout=compact&hide_border=true&bg_color=0a1628&title_color=22d3ee&text_color=e6edf3&langs_count=6">
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=vemulapatikavita-dotcom&theme=dark&hide_border=true&background=0a1628&ring=22d3ee&fire=22d3ee&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e">
-
-<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vemulapatikavita-dotcom&bg_color=0a1628&color=e6edf3&line=22d3ee&point=ffffff&area=true&area_color=22d3ee&hide_border=true&hide_title=true">
-
-</div>
-
-<img src="./assets/divider.svg" alt="" width="100%">
-
-## 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python_%26_DSA-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="Python and DSA">
-  <img src="https://img.shields.io/badge/SQL-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="SQL">
-  <img src="https://img.shields.io/badge/Software_Development-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="Software Development">
-  <img src="https://img.shields.io/badge/AI_%2F_ML_Applications-0a1628?style=for-the-badge&labelColor=0a1628&color=22d3ee" alt="AI and ML applications">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=%24+whoami;deep_das;AI+systems+engineer;%24+load+modules;RAG+%7C+Multi-modal+%7C+Autonomy;%24+status;running+with+undefined+behavior;%24+deploy;successfully+failed+forward" />
 </p>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+---
 
-## 🏆 Achievements and Certifications
+# 🧬 SYSTEM STATE
 
-- Completed an internship at **DRDO - Research Centre Imarat**, working on YOLOv5-based image detection.
-- Completed project work for the **CodeSoft** (Java) and **SkillCraft Technology** (Python) internship programs.
-- Took part in the **JPMorgan Chase Advanced Software Engineering** virtual experience on Forage.
+![AI](https://img.shields.io/badge/AI-Active-00F7FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Operational-00F7FF?style=for-the-badge)
+![MultiModal](https://img.shields.io/badge/Multi--Modal-Running-00F7FF?style=for-the-badge)
+![Autonomy](https://img.shields.io/badge/Autonomy-Training-00F7FF?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-Integrating-00F7FF?style=for-the-badge)
 
-<img src="./assets/divider.svg" alt="" width="100%">
+---
 
-## 🤝 Connect With Me
+# 🧠 FEATURED PROJECTS
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/vemulapatikavita-dotcom"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+- Medical RAG LLM  
+- Multi-Modal PM Prediction (ISRO BAH 2025)  
+- Audio Compression Forensics  
+- Dermatology RAG Pipeline  
+
+---
+
+# 🌐 CONNECT
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF)](mailto:vemulapatikavita@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vemulapati-kavita-077666366/)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=THE-DEEPDAS&label=VISITORS&color=00F7FF&style=flat" />
 </p>
-
-Thanks for visiting. I'm open to entry-level software developer roles and internships.
